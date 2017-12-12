@@ -1,0 +1,1 @@
+for i in $(cat lista.txt); do sed 's/teste/'$i'/g' auxItem.txt >> final.txt; done

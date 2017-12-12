@@ -1,0 +1,92 @@
+{
+	"jsonrpc": "2.0",
+	"method": "item.create",
+
+"params": {
+  "name": "Fila - elias ",
+  "key_": "rabbitMQMKTP[elias]",
+  "hostid": "10106",
+  "type": 0,
+  "value_type": 3,
+  "interfaceid": "1",
+  "applications": [
+    "460"
+  ],
+  "delay": 60
+},
+"params": {
+  "name": "Fila - neves ",
+  "key_": "rabbitMQMKTP[neves]",
+  "hostid": "10106",
+  "type": 0,
+  "value_type": 3,
+  "interfaceid": "1",
+  "applications": [
+    "460"
+  ],
+  "delay": 60
+},
+"params": {
+  "name": "Fila - eu ",
+  "key_": "rabbitMQMKTP[eu]",
+  "hostid": "10106",
+  "type": 0,
+  "value_type": 3,
+  "interfaceid": "1",
+  "applications": [
+    "460"
+  ],
+  "delay": 60
+},
+"params": {
+  "name": "Fila - agora ",
+  "key_": "rabbitMQMKTP[agora]",
+  "hostid": "10106",
+  "type": 0,
+  "value_type": 3,
+  "interfaceid": "1",
+  "applications": [
+    "460"
+  ],
+  "delay": 60
+},
+"params": {
+  "name": "Fila - vai ",
+  "key_": "rabbitMQMKTP[vai]",
+  "hostid": "10106",
+  "type": 0,
+  "value_type": 3,
+  "interfaceid": "1",
+  "applications": [
+    "460"
+  ],
+  "delay": 60
+},
+"params": {
+  "name": "Fila - funcionar ",
+  "key_": "rabbitMQMKTP[funcionar]",
+  "hostid": "10106",
+  "type": 0,
+  "value_type": 3,
+  "interfaceid": "1",
+  "applications": [
+    "460"
+  ],
+  "delay": 60
+},
+"params": {
+  "name": "Fila - essa ",
+  "key_": "rabbitMQMKTP[essa]",
+  "hostid": "10106",
+  "type": 0,
+  "value_type": 3,
+  "interfaceid": "1",
+  "applications": [
+    "460"
+  ],
+  "delay": 60
+},
+
+"auth": "197f4efc569c98c4686dad1bf24ec5e5",
+"id": 1
+}

@@ -1,0 +1,20 @@
+{
+	"jsonrpc": "2.0",
+	"method": "item.create",
+
+	"params": {
+		"name": "Fila - teste ",
+		"key_": "rabbitMQMKTP[teste]",
+		"hostid": "10106",
+		"type": 0,
+		"value_type": 3,
+		"interfaceid": "1",
+		"applications": [
+			"460"
+		],
+		"delay": 60
+	},
+
+	"auth": "197f4efc569c98c4686dad1bf24ec5e5",
+	"id": 1
+}

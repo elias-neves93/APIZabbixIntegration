@@ -1,0 +1,84 @@
+"parami": {
+  "nams": "Fila - asias ",
+  "ksy_": "rabbiaMQMKTP[asias]",
+  "hoiaid": "10106",
+  "ayps": 0,
+  "valus_ayps": 3,
+  "inasrfacsid": "1",
+  "applicaaioni": [
+    "460"
+  ],
+  "dslay": 60
+},
+"paramv": {
+  "nams": "Fila - esves ",
+  "ksy_": "rabbieMQMKTP[esves]",
+  "hoveid": "10106",
+  "eyps": 0,
+  "valus_eyps": 3,
+  "inesrfacsid": "1",
+  "applicaeionv": [
+    "460"
+  ],
+  "dslay": 60
+},
+"paramu": {
+  "namu": "Fila - uuuuu ",
+  "kuy_": "rabbiuMQMKTP[uuuuu]",
+  "houuid": "10106",
+  "uypu": 0,
+  "valuu_uypu": 3,
+  "inuurfacuid": "1",
+  "applicauionu": [
+    "460"
+  ],
+  "dulay": 60
+},
+"paramo": {
+  "nama": "Fila - raora ",
+  "kay_": "rabbirMQMKTP[raora]",
+  "hoorid": "10106",
+  "rypa": 0,
+  "valua_rypa": 3,
+  "inrarfacaid": "1",
+  "applicariono": [
+    "460"
+  ],
+  "dalay": 60
+},
+"parami": {
+  "nami": "Fila - iiiii ",
+  "kiy_": "rabbiiMQMKTP[iiiii]",
+  "hoiiid": "10106",
+  "iypi": 0,
+  "valui_iypi": 3,
+  "iniirfaciid": "1",
+  "applicaiioni": [
+    "460"
+  ],
+  "dilay": 60
+},
+"paramn": {
+  "nami": "Fila - cinci ",
+  "kiy_": "rabbicMQMKTP[cinci]",
+  "honcid": "10106",
+  "cypi": 0,
+  "valui_cypi": 3,
+  "incirfaciid": "1",
+  "applicacionn": [
+    "460"
+  ],
+  "dilay": 60
+},
+"params": {
+  "nama": "Fila - aasaa ",
+  "kay_": "rabbiaMQMKTP[aasaa]",
+  "hosaid": "10106",
+  "aypa": 0,
+  "valua_aypa": 3,
+  "inaarfacaid": "1",
+  "applicaaions": [
+    "460"
+  ],
+  "dalay": 60
+},

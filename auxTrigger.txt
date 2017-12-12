@@ -1,0 +1,14 @@
+{
+  "jsonrpc": "2.0",
+  "method": "trigger.create",
+  "params":
+  {
+  "description": "VHOST - Market - Fila teste",
+  "expression": "{VHost - MarketPlace:rabbitMQMKTP[teste].max(#3)}=0",
+  "hostid": "10106",
+  "priority": 4
+
+  },
+  "auth": "197f4efc569c98c4686dad1bf24ec5e5",
+  "id": 1
+}

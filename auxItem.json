@@ -1,0 +1,12 @@
+"params": {
+  "name": "Fila - teste ",
+  "key_": "rabbitMQMKTP[teste]",
+  "hostid": "10106",
+  "type": 0,
+  "value_type": 3,
+  "interfaceid": "1",
+  "applications": [
+    "460"
+  ],
+  "delay": 60
+},
