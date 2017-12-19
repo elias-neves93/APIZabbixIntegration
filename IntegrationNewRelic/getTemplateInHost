@@ -1,0 +1,14 @@
+{
+ "jsonrpc": "2.0",
+ "method": "host.get",
+ "params": {
+ "output": ["hostid"],
+ "selectParentTemplates": [
+ "templateid",
+ "name"
+ ],
+ "hostids": "14563"
+ },
+    "auth": "111d5c1277886ad5723839fc6187b025",
+    "id": 1
+}

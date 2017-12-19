@@ -3,18 +3,18 @@
 	"method": "item.create",
 
 	"params": {
-		"name": "Fila - teste ",
-		"key_": "rabbitMQMKTP[teste]",
-		"hostid": "10106",
+		"name": "Fila - teste (READY)",
+		"key_": "RabbitMQMktReady[teste]",
+		"hostid": "14638",
 		"type": 0,
 		"value_type": 3,
 		"interfaceid": "1",
 		"applications": [
-			"460"
+			"41486"
 		],
 		"delay": 60
 	},
 
-	"auth": "197f4efc569c98c4686dad1bf24ec5e5",
+	"auth": "cb70282386f5e6e5fb0b3cf7757cb186",
 	"id": 1
 }

@@ -1,0 +1,34 @@
+{
+  "jsonrpc": "2.0",
+  "method": "trigger.create",
+  "params":
+  {
+  "description": "[applicationName] - [attribute] ({ITEM.LASTVALUE})",
+  "expression": "{[applicationName]:new-relic[[applicationId],[attribute]].last(5m)}>=[threshold]",
+  "hostid": "[templateId]",
+  "priority": "[nivel]",
+  "url":"https://confluence.ns2online.com.br/display/SSC/POP%3A+FREEDOM"
+
+  },
+  "auth": "cb70282386f5e6e5fb0b3cf7757cb186",
+  "id": 1
+}
+
+
+
+
+Primeiro:
+
+Pegar o policyID da aplicação -
+curl -X GET 'https://api.newrelic.com/v2/alerts_policies.json' \
+     -H 'X-Api-Key:3829076b9ae789bf929b8aeff6f1008da6dc0f8fa2aa957' -i | jq '.[application]'
+
+
+
+Segundo:
+
+Para conseguir a conditons -
+
+curl -X GET 'https://api.newrelic.com/v2/alerts_conditions.json' \
+     -H 'X-Api-Key:3829076b9ae789bf929b8aeff6f1008da6dc0f8fa2aa957' -i \
+     -G -d 'policy_id=[policyID]' | jq ...

@@ -1,0 +1,15 @@
+{
+    "jsonrpc": "2.0",
+    "method": "trigger.get",
+    "params": {
+        "output": [
+            "triggerid",
+            "description",
+            "priority"
+        ],
+        "hostids": "14563"
+
+    },
+    "auth": "28e4b9b15bd6572298a2d025870c2fc4",
+    "id": 1
+}

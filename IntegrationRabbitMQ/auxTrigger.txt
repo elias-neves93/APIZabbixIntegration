@@ -1,0 +1,15 @@
+{
+  "jsonrpc": "2.0",
+  "method": "trigger.create",
+  "params":
+  {
+  "description": "VHost - MarketPlace - Fila teste (READY)",
+  "expression": "{VHost - MarketPlace:RabbitMQMktReady[teste].last()}>=100",
+  "hostid": "14638",
+  "priority": 4,
+  "url":"https://confluence.ns2online.com.br/display/SSC/POP+%3A+RabbitMQ+MarketPlace"
+
+  },
+  "auth": "cb70282386f5e6e5fb0b3cf7757cb186",
+  "id": 1
+}

@@ -1,0 +1,20 @@
+{
+	"jsonrpc": "2.0",
+	"method": "item.create",
+
+	"params": {
+		"name": "POS-VENDA - Aplicação [name] - error-rate ({ITEM.LASTVALUE})",
+		"key_": "new-relicR[[apiKey],[applicationId],[itemId]]",
+		"hostid": "14782",
+		"type": 0,
+		"value_type": 3,
+		"interfaceid": "1",
+		"applications": [
+			"42284"
+		],
+		"delay": 60
+	},
+
+	"auth": "cb70282386f5e6e5fb0b3cf7757cb186",
+	"id": 1
+}

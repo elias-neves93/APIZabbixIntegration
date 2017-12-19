@@ -1,0 +1,9 @@
+ha.commission.finish.invoice.process.delay.queue
+ha.commission.order.event.delay.queue
+ha.commission.update.invoice.process.delay.queue
+ha.order.closeShippingLabelGroupDelay
+ha.order.trackingCodeRetryDelay
+mplojista-seller-delay-queue
+mpm-queue-msg-erros-ttl
+queue-email-event-dlq
+queue-hybrid-product-delay
